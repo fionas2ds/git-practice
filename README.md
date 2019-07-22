@@ -5,3 +5,5 @@ Welcome! This is a repository you can safely make commits to and play around wit
 Add some test text to prove I can edit the file on the master branch
 
 Add some more text to the master branch
+
+Added some text to see if chamging the editor worked
