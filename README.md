@@ -14,3 +14,6 @@ See: https://stackoverflow.com/questions/39944469/my-old-username-is-still-in-us
 and https://help.github.com/en/articles/updating-credentials-from-the-osx-keychain
 
 Very frustrating!
+
+Add some more text to the master branch
+
