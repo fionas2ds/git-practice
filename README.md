@@ -10,3 +10,5 @@ Added some text to see if chamging the editor worked
 
 
 More editor experiments
+
+More experiments with thw MINGW stuff
