@@ -11,4 +11,6 @@ Added some text to see if chamging the editor worked
 
 More editor experiments
 
-More experiments with thw MINGW stuff
+More experiments with the MINGW stuff
+
+Now experimenting with getting rid of the windows credential manager
