@@ -14,3 +14,5 @@ More editor experiments
 More experiments with the MINGW stuff
 
 Now experimenting with getting rid of the windows credential manager
+
+Final check
