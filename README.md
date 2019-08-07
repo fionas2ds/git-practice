@@ -16,3 +16,5 @@ More experiments with the MINGW stuff
 Now experimenting with getting rid of the windows credential manager
 
 Final check
+
+Another test swapping to an https:// in the url
